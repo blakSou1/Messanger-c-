@@ -1,0 +1,7 @@
+C:\Users\Позитроника\source\repos\Messen0\bin\Debug\Messen0.dll.config
+C:\Users\Позитроника\source\repos\Messen0\bin\Debug\Messen0.dll
+C:\Users\Позитроника\source\repos\Messen0\bin\Debug\Messen0.pdb
+C:\Users\Позитроника\source\repos\Messen0\obj\Debug\wcf_chat.csproj.AssemblyReference.cache
+C:\Users\Позитроника\source\repos\Messen0\obj\Debug\wcf_chat.csproj.CoreCompileInputs.cache
+C:\Users\Позитроника\source\repos\Messen0\obj\Debug\Messen0.dll
+C:\Users\Позитроника\source\repos\Messen0\obj\Debug\Messen0.pdb
